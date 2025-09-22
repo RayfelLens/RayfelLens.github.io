@@ -102,7 +102,7 @@ ul li {
 }
 
 ul li::before {
-    content: "📱 ";
+    content: "📷 ";
     margin-right: 10px;
     font-size: 1.2em;
 }
@@ -130,4 +130,5 @@ footer {
     header h1 {
         font-size: 2em;
     }
+
 }
