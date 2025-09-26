@@ -18,7 +18,7 @@ header {
 header h1 {
     margin: 0;
     font-size: 2.5em;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    text-shadow: 2px 2px 4px rgba(255, 181, 181, 0.5);
 }
 
 nav ul {
@@ -57,7 +57,7 @@ section {
 }
 
 h2 {
-    color: #8B0000;
+    color: #ffb4b4;
     border-bottom: 2px solid #8B0000;
     padding-bottom: 10px;
 }
@@ -67,7 +67,7 @@ h2 {
 }
 
 .directory h3 {
-    color: #8B0000;
+    color: #ffb3b3;
 }
 
 .directory a {
@@ -102,7 +102,7 @@ ul li {
 }
 
 ul li::before {
-    content: "📷 ";
+    content: "📸 ";
     margin-right: 10px;
     font-size: 1.2em;
 }
@@ -130,5 +130,4 @@ footer {
     header h1 {
         font-size: 2em;
     }
-
 }
